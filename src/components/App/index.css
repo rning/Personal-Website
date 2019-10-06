@@ -1,0 +1,11 @@
+/* RXN Logo - Light Blue: #008F9F */
+/* RXN Logo - Dark Blue: #00558A */
+
+body {
+	margin: 0;
+	padding: 0;
+
+	font-family: zeitung-mono, Arial Black, Arial, Roboto, sans-serif;
+	font-weight: 400;
+	font-style:  normal;
+}

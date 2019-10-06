@@ -3,6 +3,11 @@
   "name": "Rafael Ning",
   "icons": [
     {
+      "src": "RXN-Logo-64.png",
+      "type": "image/png",
+      "sizes": "51x64"
+    },
+    {
       "src": "RXN-Logo-192.png",
       "type": "image/png",
       "sizes": "153x192"

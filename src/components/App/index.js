@@ -8,7 +8,7 @@ import {
 } from 'react-router-dom';
 
 import * as ROUTES from '../../constants/routes';
-import { NavHorizontal } from '../Navigation';
+import { NavHorizontal, NavVertical } from '../Navigation';
 import About from '../About';
 import Projects from '../Projects';
 import Contact from '../Contact';
@@ -17,6 +17,8 @@ import Contact from '../Contact';
 const App = () => (
 	<Router>
 		<NavHorizontal />
+		<NavVertical />
+
 		<Switch>
 			<Route exact path={ROUTES.ABOUT} component={About}/>
 			<Route path={ROUTES.PROJECTS} component={Projects}/>
