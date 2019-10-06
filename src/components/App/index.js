@@ -9,21 +9,12 @@ import {
 
 import * as ROUTES from '../../constants/routes';
 import { NavHorizontal, NavVertical } from '../Navigation';
-import About from '../About';
-import Projects from '../Projects';
-import Contact from '../Contact';
+import UnderConstruction from '../UnderConstruction';
 
 // App page navigation performed with React Router
 const App = () => (
 	<Router>
-		<NavHorizontal />
-		<NavVertical />
-
-		<Switch>
-			<Route exact path={ROUTES.ABOUT} component={About}/>
-			<Route path={ROUTES.PROJECTS} component={Projects}/>
-			<Route path={ROUTES.CONTACT} component={Contact}/>
-		</Switch>
+		<Route component={UnderConstruction}/>
 	</Router>
 );
 

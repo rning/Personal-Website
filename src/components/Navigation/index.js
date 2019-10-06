@@ -118,7 +118,7 @@ class NavHorizontal extends Navigation {
 					/>
 					<img
 						src={logo}
-						alt="Arque Capital"
+						alt="Rafael Ning"
 					/>
 				</picture>
 
@@ -192,7 +192,7 @@ class NavVertical extends Navigation {
 						/>
 						<img
 							src={logo}
-							alt="Arque Capital"
+							alt="Rafael Ning"
 						/>
 					</picture>
 
