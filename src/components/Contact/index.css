@@ -1,0 +1,20 @@
+.links {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+
+	width: 100%;
+	padding: 50px 0 0 0;
+	margin: 20px 0 0 0;
+
+	text-align: left;
+}
+
+.image-link {
+	padding: 0 20px 0 20px;
+}
+.image-link > img {
+	height: 40px;
+}

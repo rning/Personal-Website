@@ -41,6 +41,7 @@ class Navigation extends React.Component {
 
 	contact = (
 		<NavLink
+			className="contact"
 			activeClassName="nav-bar-link-active"
 			style={{order: 5}}
 			exact
@@ -118,7 +119,7 @@ class NavHorizontal extends Navigation {
 					/>
 					<img
 						src={logo}
-						alt="Arque Capital"
+						alt="Rafael Ning"
 					/>
 				</picture>
 
@@ -192,7 +193,7 @@ class NavVertical extends Navigation {
 						/>
 						<img
 							src={logo}
-							alt="Arque Capital"
+							alt="Rafael Ning"
 						/>
 					</picture>
 

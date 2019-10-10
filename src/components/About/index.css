@@ -1,0 +1,14 @@
+.big-logo {
+	display: block;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-top: 77px;
+}
+
+@media screen and (max-width: 512px) {
+	.big-logo {
+		padding-top: 15vw;
+	}
+}

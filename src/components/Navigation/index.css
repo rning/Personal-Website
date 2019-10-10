@@ -39,18 +39,21 @@
 .nav-bar > .projects {
 	flex-grow: 1;
 }
+.nav-bar > .contact {
+	margin-right: 59.84px;
+}
 
 a.hover {
-	background-color: #00558A;
+	background-color: #008F9F;
 }
 .nav-bar a:hover, .nav-bar-vertical a:hover {
-	background-color: #00558A;
+	background-color: #008F9F;
 }
 .nav-bar               > .nav-bar-link-active,
 .projects              > .nav-bar-link-active,
 .nav-bar-sub-menu      > .nav-bar-link-active,
 .nav-bar-vertical-side > .nav-bar-link-active {
-	background-color: #00558A;
+	background-color: #008F9F;
 }
 
 
@@ -75,7 +78,7 @@ a.hover {
 	display: block;
 	position: absolute;
 
-	width: calc(100% - 66.666% -  13px);
+	width: calc(100% - 66.666% -  32px);
 	min-width: 200px;
 }
 .nav-bar-sub-menu > .nav-bar-sub-menu-item {
@@ -92,7 +95,7 @@ a.hover {
 }
 .logo.vertical {
 
-	margin-left: calc(100% - 35px - 50%);
+	margin-left: calc(100% - 30px - 50%);
 	margin-right: auto;
 
 	padding-left: 10px;
