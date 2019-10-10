@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-import logo from './RXN-Logo-192.png';
+import logo from './RXN-Logo-192-White.png';
 
 import { withRouter, NavLink } from 'react-router-dom';
 
