@@ -18,7 +18,7 @@ const About = () => (
 		</h1>
 
 		<p>
-			Hello! I'm <b>Rafael X.S. Ning</b>, a junior computer science student at UCLA.
+			Hello! I'm <b>Rafael X.S. Ning</b>, a senior computer science student at UCLA.
 		</p>
 
 		<p>
@@ -26,11 +26,11 @@ const About = () => (
 		</p>
 
 		<p>
-			Now at UCLA, I am an active member of the Upsilon Pi Epsilon computer science honor society, and I enjoy introducing freshman engineering students to UCLA as a MentorSEAS mentor.
+			Now at UCLA, I am a member of the Upsilon Pi Epsilon computer science honor society, and I enjoy introducing freshman engineering students to UCLA as a MentorSEAS mentor.
 		</p>
 
 		<p>
-			I am currently interested in <b>internship opportunities</b> utilizing my technical, creative critical-thinking, and interpersonal skills in the intersection of <b>computer science and business</b>.
+			I am currently interested in <b>career opportunities</b> utilizing my technical, creative critical-thinking, and interpersonal skills in the intersection of <b>computer science and entrepreneurship</b>.
 		</p>
 	</div>
 );
